@@ -2,7 +2,7 @@
 
 Thank you very much for your interest. This course addresses the foundations to learn ROS 1, and the relationship of space robotics and ROS. This course was inspired in the Udemy Course : 'ROS for Beginners: Basics, Motion, and OpenCV' of the PhD Anis Koubaa.
 
-![](images/Rosvers.jpeg)
+![logo](images/Rosvers.jpeg)
 
 ## Instructions
 
