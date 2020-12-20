@@ -1,0 +1,4 @@
+<launch>
+  <node name="turtlesim" pkg="turtlesim" type="turtlesim_node"/>
+  <node name="exploration_node" pkg="rosvers_course" type="exploration_robot.py" output="screen" />   
+</launch>
