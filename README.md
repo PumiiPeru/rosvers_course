@@ -1,12 +1,12 @@
 # ROSvers
 
-Thank you very much for your interest. This course addresses the foundations to learn ROS 1, and the relationship of space robotics and ROS. This course was inspired in the Udemy Course : 'ROS for Beginners: Basics, Motion, and OpenCV' of the PhD. Anis Koubaa.
+Thank you very much for your interest! This course addresses the foundations to learn ROS 1, and the relationship of space robotics and ROS. This course was inspired in the Udemy Course : 'ROS for Beginners: Basics, Motion, and OpenCV' of the PhD. Anis Koubaa.
 
 ![logo](images/Rovers.jpeg)
 
 ## Instructions
 
-Just copy the package 'rosvers_course' in your workspace and build it with catkin_build
+Just copy the package 'rosvers_course' in your workspace and build it with catkin_make
 
 ## Link to the Drive
 
