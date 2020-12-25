@@ -12,3 +12,4 @@ Just copy the package 'rosvers_course' in your workspace and build it with catki
 
 Feel free to access the Drive and see all the ROSvers courseware
 https://drive.google.com/drive/folders/1Wnub_En2K_9lxMfchw2m6UGnyk0ac3Ap?usp=sharing
+You can access to the first class by entering to Lecture 01. Then, I recommend to click in the icon of youtube for further explanation.
